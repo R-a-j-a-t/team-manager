@@ -17,4 +17,4 @@ You can easily add team members, mention their current (i.e.status = active) or 
 
 The Team Manager table can serve as the single source of truth for your project management needs and one glance is enough to give your an overview of the status of your project.
 
-***Go to [Team Manager](https://) to try for yourself!***
+***Go to [Team Manager](https://r-a-j-a-t.github.io/team-manager/) to try for yourself!***
