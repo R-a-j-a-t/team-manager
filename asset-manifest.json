@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/team-manager/static/css/main.434d85ca.css",
+    "main.js": "/team-manager/static/js/main.ef1dd808.js",
+    "index.html": "/team-manager/index.html",
+    "main.434d85ca.css.map": "/team-manager/static/css/main.434d85ca.css.map",
+    "main.ef1dd808.js.map": "/team-manager/static/js/main.ef1dd808.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.434d85ca.css",
+    "static/js/main.ef1dd808.js"
+  ]
+}
